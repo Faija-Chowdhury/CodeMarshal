@@ -4,7 +4,7 @@
 using namespace std;
 #define M_PI acos(-1.0)
 int main() {
-int t;
+	int t;
 	double c,d,p,l,r;
 	cin>>t;
 	while(t--){
